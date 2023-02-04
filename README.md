@@ -40,15 +40,15 @@ SHARING/ACCESS INFORMATION
 
 1. Licenses/restrictions placed on the data:  CC0 1.0 Universal (CC0 1.0) Public Domain Dedication  (https://creativecommons.org/publicdomain/zero/1.0/)
 
-2. Links to publications that cite or use the data:  to be defined after review processs.
+2. Links to publications that cite or use the data:   https://doi.org/10.3390/w14111805.
 
-3. Links to other publicly accessible locations of the data: N/A
+3. Links to other publicly accessible locations of the data: [Zenodo](https://zenodo.org/record/6551909#.Y95Zz3bMJPY)
 
 4. Links/relationships to ancillary data sets: N/A
 
 5. Was data derived from another source? No
 
-6. Recommended citation for the data: Souza, Saulo A., Reis, Dirceu S Jr (2022) Data from: Trend detection in annual streamflow extremes in Brazil [Dataset]. GitHub Repository. (doi number to be defined)
+6. Recommended citation for the data: Souza, Saulo A., Reis, Dirceu S Jr (2022) Data from: Trend detection in annual streamflow extremes in Brazil [Dataset]. GitHub Repository. (https://doi.org/10.5281/zenodo.6551909)
 
 ---------------------
 DATA & FILE OVERVIEW
